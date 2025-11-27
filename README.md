@@ -49,10 +49,10 @@ BookVerse is a beautifully crafted Flutter application that lets users browse, t
 
 ## 🎨 Visual Direction  
 The visual style was inspired by:
-- Netflix-style card displays  
 - Soft pastel gradients  
 - Cinematic typography (Cinzel Decorative)  
-- Cozy bookstore aesthetic  
+- Cozy bookstore aesthetic
+   
 This guided choices like:
 - Rounded card edges  
 - Shelf shadows  
