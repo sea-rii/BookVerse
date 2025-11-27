@@ -3,13 +3,13 @@
 
 BookVerse is a beautifully crafted Flutter application that lets users browse, track, and manage their reading journey. Designed with a cinematic theme, smooth animations, and a dynamic bookshelf UI, it merges aesthetics with functionality. Users can add books, update statuses, write notes, filter categories, and explore their reading stats — all wrapped in a polished experience.
 
----
+
 
 ## 🎥 Demo Video  
 *A full walkthrough of the app, including responsive layout & features.*  
 👉 *(Add your YouTube or Canvas video link here)*
 
----
+
 
 ## ✨ Features  
 
